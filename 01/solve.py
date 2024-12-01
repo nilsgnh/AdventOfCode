@@ -1,6 +1,6 @@
 '''f = open("input.txt", "r")
 lines = f.readlines()'''
-with open("inpute.txt") as f:
+with open("input.txt") as f:
     lines = f.readlines()
 
 group1 = []
