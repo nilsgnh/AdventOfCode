@@ -68,4 +68,3 @@ for position in visited:
 
 print('Part 2:')
 print(possible_positions)
-
